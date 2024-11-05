@@ -4,8 +4,9 @@
 [![Python](https://img.shields.io/badge/Built_with-Python-blue?style=flat&logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-## 👩‍💻 About Me
-![Your Image Here](path/to/your-image.jpg)
+## 👨‍💻 Project Inspiration
+![dbcd188f-30c5-4d44-d9fd-f98142be8c99](https://github.com/user-attachments/assets/0928adf9-1da0-4ced-aaaf-697d4369f3ef)
+
 > **This project was developed during my time as a Software Engineering Resident at Headstarter AI.** Through this residency, I gained experience working with machine learning models, data preprocessing, and advanced model evaluation techniques.
 
 ---
@@ -40,8 +41,8 @@ Predicting **customer churn** is crucial for banks looking to maintain customer 
 | ![Python](https://img.icons8.com/color/20/000000/python.png) **Python** | Core programming language |
 | ![Pandas](https://img.icons8.com/color/20/000000/pandas.png) **Pandas** | Data manipulation |
 | ![NumPy](https://img.icons8.com/color/20/000000/numpy.png) **NumPy**   | Numerical operations |
-| ![Scikit-Learn](https://img.icons8.com/color/20/000000/scikit-learn.png) **Scikit-Learn** | Machine learning algorithms |
-| ![Matplotlib](https://img.icons8.com/color/20/000000/matplotlib.png) **Matplotlib** & **Seaborn** | Data visualization |
+| ![Scikit-Learn](https://banner2.cleanpng.com/20180823/ipi/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-1713950435380.webp) **Scikit-Learn** | Machine learning algorithms |
+| ![Matplotlib]([https://img.icons8.com/color/20/000000/matplotlib.png](https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png)) **Matplotlib** & **Seaborn** | Data visualization |
 
 ---
 
